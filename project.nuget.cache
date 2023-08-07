@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d8Jo6rJNXoNvREwVVJk8hcPNcye/G3el72V8/qag/2JzIF2w1C5K/bFbDwZHSB+pLDDLQU1cJpd6DjpsmGcxng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\himanshu\\source\\repos\\pr0\\pr0\\pr0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\himanshu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
